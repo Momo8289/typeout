@@ -1,5 +1,6 @@
 # typeout
 A simple javascript tool to easily add typeout effects to your webpage
+![typeout](https://user-images.githubusercontent.com/42454181/187049182-c08e4914-5198-4769-b1ae-b84675ff78dd.gif)
 
 ## Usage
 Add a one-time typeout effect
