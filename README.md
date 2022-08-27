@@ -72,3 +72,19 @@ Only cycle through the words once, and do not loop
 </body>
 </html>
 ```
+
+## Reference
+### `typeOut(string, element, options={})`
+Options:
+| Name | Value | Default |
+|---|-----|---|
+| `charDelay` | Delay between typed out characters in milliseconds | `100` |
+
+### `cycleWord(strings, element, options={})`
+Options:
+| Name | Value | Default |
+|---|-----|---|
+| `charDelay` | Delay between typed out characters in milliseconds | `100` |
+| `cycleDelay` | Delay to wait after typing out a word before going to the next in milliseconds | `1000` |
+| `loop` | Whether or not to loop after going through all string in the array | `true` |
+
