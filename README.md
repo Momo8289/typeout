@@ -4,6 +4,7 @@ A simple javascript tool to easily add typeout effects to your webpage
 
 ## Usage
 Using jsdelivr: `<script src="https://cdn.jsdelivr.net/gh/Momo8289/typeout/typeout.min.js"></script>`
+
 Or, download `typeout.js` (or the minified version) and include it in your document: `<script src="./typeout.js"></script>`
 
 ## Examples
