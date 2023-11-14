@@ -8,7 +8,7 @@ Add a one-time typeout effect
 ```html
 <html lang="en">
 <body>
-    <script src="./typeout.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Momo8289/typeout/typeout.min.js"></script>
     <h1>Written with <span id="span"></span></h1>
     <script>
         let span = document.getElementById("span")
@@ -21,7 +21,7 @@ Change the delay between characters to 500ms
 ```html
 <html lang="en">
 <body>
-    <script src="./typeout.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Momo8289/typeout/typeout.min.js"></script>
     <h1>This one is typed out <span id="span"></span></h1>
     <script>
         let span = document.getElementById("span")
@@ -34,7 +34,7 @@ Cycle through a list of words
 ```html
 <html lang="en">
 <body>
-    <script src="./typeout.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Momo8289/typeout/typeout.min.js"></script>
     <h1>Written with <span id="span"></span></h1>
     <script>
         let span = document.getElementById("span")
@@ -48,7 +48,7 @@ Change the delay between characters to 500ms, and the delay between words to 150
 ```html
 <html lang="en">
 <body>
-    <script src="./typeout.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Momo8289/typeout/typeout.min.js"></script>
     <h1>Written with <span id="span"></span></h1>
     <script>
         let span = document.getElementById("span")
@@ -63,7 +63,7 @@ Only cycle through the words once, and do not loop
 ```html
 <html lang="en">
 <body>
-    <script src="./typeout.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Momo8289/typeout/typeout.min.js"></script>
     <h1>Written with <span id="span"></span></h1>
     <script>
         let span = document.getElementById("span")
